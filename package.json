@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-nsuserdefaults-for-app-groups",
+  "version": "0.0.1",
+  "description": "Cordova Plugin",
+  "cordova": {
+    "id": "cordova-plugin-nsuserdefaults-for-app-groups",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova"
+  ],
+  "author": "Cordova",
+  "license": "MIT"
+}
